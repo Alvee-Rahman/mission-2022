@@ -34,13 +34,14 @@ span{
 
 }
 .section-1div img{
-    width: 60%;
+    width: 70%;
     height: auto;
     
 }
 
 .section-1div{
     margin-left: 200px;
+    
     margin-top: 100px;
     font-size: 30px;
   
@@ -53,8 +54,8 @@ span{
 
 }
 .section-2div1{
-    margin-left: 200px;
-    margin-right: 20px;
+    margin-left: 300px;
+    margin-right: 40px;
     margin-top: 50px;
     padding: 30px;
     height: 100%;
@@ -71,8 +72,8 @@ span{
 }
 
 .section-2div2{
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
     margin-top: 50px;
     padding: 30px;
     height: 100%;
@@ -86,8 +87,8 @@ span{
 
 }
 .section-2div3{
-    margin-left: 20px;
-    margin-top: 50px;
+    margin-left: 40px;
+    margin-top: 40px;
     height: 100%;
     width: 300px;
     padding: 30px;
@@ -99,12 +100,12 @@ span{
     margin-left: 200px;
     margin-bottom: 200px;
     width: 60%;
-    height: auto;
+    height: 60%;
 }
 
 .section-3div2{
     padding-top: 200px;
-    margin-right: 200px;
+    margin-right: 500px;
     font-size: 30px;
   
 
@@ -128,8 +129,8 @@ span{
 }
 
 .section-5div2{
-    margin-top: 50px;
-    margin-bottom: 275px;
+    margin-top: 60px;
+    margin-bottom: 320px;
     margin-right: 400px;
     padding-top: 200px;
     text-align: center;
