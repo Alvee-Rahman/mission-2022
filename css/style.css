@@ -5,17 +5,33 @@ body{
 .heading{
     text-align: center;
 }
+.anchor{
+    background-color: rgb(182, 80, 33);
+    text-decoration: none;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+span{
+    color: rgb(218, 203, 122);
+}
 .section{
     display: flex;
 
 }
 .section-1div img{
-    width: 100%;
+    width: 60%;
     height: auto;
+    
 }
 
 .section-1div{
-    margin: 200px;
+    margin-left: 200px;
+    margin-top: 100px;
     font-size: 30px;
   
 
@@ -28,11 +44,14 @@ body{
 }
 .section-2div1{
     margin-left: 200px;
+    margin-right: 20px;
     margin-top: 50px;
     padding: 30px;
     height: 100%;
     width: 300px;
     background-color: skyblue;
+    border-radius: 10px;
+    opacity: 80%;
 
 }
 .section-2div2 img{
@@ -42,11 +61,13 @@ body{
 }
 
 .section-2div2{
-    
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 50px;
     padding: 30px;
     height: 100%;
     width: 300px;
+    border-radius: 10px;
     background-color: pink
 }
 .section-2div3 img{
@@ -55,12 +76,72 @@ body{
 
 }
 .section-2div3{
+    margin-left: 20px;
     margin-top: 50px;
     height: 100%;
     width: 300px;
     padding: 30px;
+    border-radius: 10px;
     background-color: rgb(221, 221, 171);
 }
+.section-3div1 img{
+    margin: 200px;
+    width: 60%;
+    height: auto;
+}
+
+.section-3div2{
+    margin-top: 200px;
+    padding-right: 100px;
+    font-size: 30px;
+  
+
+}
+.section-4div2 img{
+    width: 60%;
+    height: auto;
+}
+
+.section-4div1{
+    margin-left:  200px;
+    margin-right: 100px;
+    font-size: 30px;
+  
+
+}
+.section-5div1 img{
+    margin-left: 200px;
+    width: 50%;
+    height: 80%;
+}
+
+.section-5div2{
+    margin: 100px;
+    width: 50%;
+    
+    font-size: 30px;
+  
+
+}
+footer{
+    background-color: black;
+    
+
+    
+}
+.footerdiv{
+    padding-top: 150px;
+    text-align: center;
+    color: white;
+    height: 300px;
+    width: auto;
+
+
+
+}
+
+
+
 
 
 
